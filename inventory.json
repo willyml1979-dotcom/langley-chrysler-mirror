@@ -1,6 +1,6 @@
 {
   "dealership": "Langley Chrysler",
-  "generated_at": "2026-09-25T06:02:06",
+  "generated_at": "2026-10-08T14:40:25",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -14,7 +14,9 @@
       "source_url": "https://www.langleychrysler.com/inventory/2026-ford-bronco-stroppe-edition-K34fw1Z3Q9CCjRDqYTc3Owvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-ford-bronco-stroppe-edition-K34fw1Z3Q9CCjRDqYTc3Owvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:43:13",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026HondaCivic Sedan HybridSportHYBRID- 1 OWNER- NO ACCIDENTS- LOW KMS - SPORT TOURING -",
@@ -25,7 +27,9 @@
       "source_url": "https://www.langleychrysler.com/inventory/2026-honda-civic-sedan-hybrid-sport-CG0Q73aoRX69JpHvKiYdvQvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-honda-civic-sedan-hybrid-sport-CG0Q73aoRX69JpHvKiYdvQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:43:27",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026HyundaiPalisadeUltimate CalligraphyLIKE NEW- ULTIMATE CALLIGRAPHY - FULL LUXURY YES, THE PLASTIC IS STILL LEFT ON THIS FROM THE FACTORY- LOW KMS - NO ACCIDENTS- RARE- 1 OWNER",
@@ -36,7 +40,9 @@
       "source_url": "https://www.langleychrysler.com/inventory/2026-hyundai-palisade-ultimate-calligraphy-evvIzkOiQ8O0Mkhksyhsjgvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-hyundai-palisade-ultimate-calligraphy-evvIzkOiQ8O0Mkhksyhsjgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:43:41",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026JeepCherokeeLaredoHYBRID- 4WD- LIKE NEW- NO ACCIDENTS- SAVE THOUSANDS",
@@ -47,7 +53,9 @@
       "source_url": "https://www.langleychrysler.com/inventory/2026-jeep-cherokee-laredo-mBQKFQuOSUufgMnex5kfEwvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-jeep-cherokee-laredo-mBQKFQuOSUufgMnex5kfEwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:43:54",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026Ram1500Sport",
@@ -58,7 +66,9 @@
       "source_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-O7fv4LTWT9i4MHOkbhO4Lwvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-O7fv4LTWT9i4MHOkbhO4Lwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:44:08",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026Ram1500SportLIKE NEW- NO ACCIDENTS- POWER SUNROOF- LEATHER- NIGHT EDITION-SPORT LEVEL 1- TRAILER BRAKE - STEEL SPORT HOOD",
@@ -69,7 +79,9 @@
       "source_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-YhXlhmqNTnGVu5yMwhShAQvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-YhXlhmqNTnGVu5yMwhShAQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:44:22",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026Ram1500Tungsten",
@@ -80,7 +92,9 @@
       "source_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-tungsten-eIWtuRsOTse8optIBedl7Qvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-tungsten-eIWtuRsOTse8optIBedl7Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:44:33",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaRAV4LERAV 4 HYBRID- AWD- HEATED SEATS- LIKE NEW- JUST ARRIVED-",
@@ -91,7 +105,9 @@
       "source_url": "https://www.langleychrysler.com/inventory/2026-toyota-rav4-le-0Q1KbFc7QvqXVF5n0H9DcQvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-toyota-rav4-le-0Q1KbFc7QvqXVF5n0H9DcQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:44:45",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTacoma'PREMIUM PACKAGE- TRD SPORT- 1 OWNER- NO ACCIDENTS- LEATHER- POWER SUNROOF- LIKE NEW- HARD TO FIND",
@@ -102,7 +118,9 @@
       "source_url": "https://www.langleychrysler.com/inventory/2026-toyota-tacoma-2g7ErfrfQ12okXv5pJpFrQvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-toyota-tacoma-2g7ErfrfQ12okXv5pJpFrQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:44:58",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026ToyotaTacomaDOUBLE CAB - 4X4- AUTOMATIC- NO ACCIDENTS- 1 OWNER",
@@ -113,7 +131,9 @@
       "source_url": "https://www.langleychrysler.com/inventory/2026-toyota-tacoma-37ri5vbYREuJhpdIkXmKFgvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-toyota-tacoma-37ri5vbYREuJhpdIkXmKFgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:45:09",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026VolkswagenJettaComfortlineYES-NEW- COMFORTLINE- SPORT PACKAGE- LEATHER - ALLOY WHEELS -",
@@ -124,7 +144,9 @@
       "source_url": "https://www.langleychrysler.com/inventory/2026-volkswagen-jetta-comfortline-GtJpF6ytRNGWzUCpiqFHHgvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-volkswagen-jetta-comfortline-GtJpF6ytRNGWzUCpiqFHHgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:45:23",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024DodgeHornetR/T",
@@ -137,7 +159,9 @@
       "last_verified": "2026-09-25T05:59:27",
       "price": 39999.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025Ram3500 ChassisTradesman",
@@ -150,7 +174,9 @@
       "last_verified": "2026-09-25T05:59:38",
       "price": 79540.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025RamProMaster Cargo VanSLT+",
@@ -163,7 +189,9 @@
       "last_verified": "2026-09-25T05:59:50",
       "price": 67810.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025RamProMaster Cargo VanTradesman",
@@ -176,7 +204,9 @@
       "last_verified": "2026-09-25T06:00:04",
       "price": 66265.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026Ram1500Express",
@@ -189,7 +219,9 @@
       "last_verified": "2026-09-25T06:00:18",
       "price": 68185.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026Ram1500Rebel",
@@ -202,7 +234,9 @@
       "last_verified": "2026-09-25T06:00:31",
       "price": 85320.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026Ram1500Sport",
@@ -215,7 +249,9 @@
       "last_verified": "2026-09-25T06:00:44",
       "price": 79225.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026Ram1500Sport",
@@ -228,7 +264,9 @@
       "last_verified": "2026-09-25T06:00:57",
       "price": 79225.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026Ram1500Sport",
@@ -241,7 +279,9 @@
       "last_verified": "2026-09-25T06:01:09",
       "price": 81375.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026Ram3500Big Horn",
@@ -251,7 +291,9 @@
       "source_url": "https://www.langleychrysler.com/inventory/2026-ram-3500-big-horn-2C563oPwQx6xMOuMPHHgvQvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-ram-3500-big-horn-2C563oPwQx6xMOuMPHHgvQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T06:01:21",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026Ram3500Limited",
@@ -264,7 +306,9 @@
       "last_verified": "2026-09-25T06:01:34",
       "price": 132890.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026Ram3500LimitedTAG CUSTOMS",
@@ -277,7 +321,9 @@
       "last_verified": "2026-09-25T06:01:46",
       "price": 140365.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "252 Vehicles For Sale in Surrey, BC",
@@ -289,7 +335,9 @@
       "last_verified": "2026-09-25T06:01:56",
       "price": 39999.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     }
   ]
 }
