@@ -1,7 +1,7 @@
 {
   "dealership": "Langley Chrysler",
-  "generated_at": "2026-10-08T14:40:25",
-  "vehicle_count": 24,
+  "generated_at": "2026-10-09T11:25:20",
+  "vehicle_count": 28,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -32,6 +32,19 @@
       "province": "BC"
     },
     {
+      "name": "2026HondaPassportTrailSportNO ACCIDENTS- TAIL SPORT- LEATHER- POWER SUNROOF- HEATED SEATS-",
+      "vin": "5FNYF9H53TB500598",
+      "stock": "LC3114A",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/fe47e38acf78.html",
+      "source_url": "https://www.langleychrysler.com/inventory/2026-honda-passport-trailsport-0MnMGnVsR1qBpKYgcljRVgvdp",
+      "dealer_url": "https://www.langleychrysler.com/inventory/2026-honda-passport-trailsport-0MnMGnVsR1qBpKYgcljRVgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T11:22:39",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
       "name": "2026HyundaiPalisadeUltimate CalligraphyLIKE NEW- ULTIMATE CALLIGRAPHY - FULL LUXURY YES, THE PLASTIC IS STILL LEFT ON THIS FROM THE FACTORY- LOW KMS - NO ACCIDENTS- RARE- 1 OWNER",
       "vin": "KM8RMES28TU036633",
       "stock": "LC3015",
@@ -39,7 +52,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/d6b9cddfca5c.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-hyundai-palisade-ultimate-calligraphy-evvIzkOiQ8O0Mkhksyhsjgvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-hyundai-palisade-ultimate-calligraphy-evvIzkOiQ8O0Mkhksyhsjgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:43:41",
+      "last_verified": "2026-10-09T11:23:37",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -52,7 +65,33 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/ea09b9eff3f6.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-jeep-cherokee-laredo-mBQKFQuOSUufgMnex5kfEwvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-jeep-cherokee-laredo-mBQKFQuOSUufgMnex5kfEwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:43:54",
+      "last_verified": "2026-10-09T11:23:50",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "2026JeepWranglerSaharaSAHARA- HARD TOP- FULL POWER FEATURES- SAVE THOUSANDS OFF NEW",
+      "vin": "1C4PJXEN4TW186099",
+      "stock": "LC3021",
+      "color": "Mojito",
+      "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/98cd5b7a83cf.html",
+      "source_url": "https://www.langleychrysler.com/inventory/2026-jeep-wrangler-sahara-wJBOOok2Sp20e8fwTxlzoAvdp",
+      "dealer_url": "https://www.langleychrysler.com/inventory/2026-jeep-wrangler-sahara-wJBOOok2Sp20e8fwTxlzoAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T11:22:51",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "2026Mercedes-BenzCLA250NO ACCIDENTS- LEATHER- POWER ROOF- ALL WHEEL DRIVE- NAVIGATION-",
+      "vin": "W1K5J4HB7TN572647",
+      "stock": "LC3118",
+      "color": "Cosmos Black Metallic",
+      "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/5528f6485ac2.html",
+      "source_url": "https://www.langleychrysler.com/inventory/2026-mercedes-benz-cla-cla-250-LgZQq9nCQXu9JYEB03rInwvdp",
+      "dealer_url": "https://www.langleychrysler.com/inventory/2026-mercedes-benz-cla-cla-250-LgZQq9nCQXu9JYEB03rInwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T11:23:03",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -65,7 +104,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/b7d46550de43.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-O7fv4LTWT9i4MHOkbhO4Lwvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-O7fv4LTWT9i4MHOkbhO4Lwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:44:08",
+      "last_verified": "2026-10-09T11:24:04",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -78,7 +117,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/88488b730142.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-YhXlhmqNTnGVu5yMwhShAQvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-YhXlhmqNTnGVu5yMwhShAQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:44:22",
+      "last_verified": "2026-10-09T11:24:17",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -91,7 +130,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/171e4b57affa.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-tungsten-eIWtuRsOTse8optIBedl7Qvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-tungsten-eIWtuRsOTse8optIBedl7Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:44:33",
+      "last_verified": "2026-10-09T11:24:30",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -117,7 +156,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/6d1eec7b447d.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-toyota-tacoma-2g7ErfrfQ12okXv5pJpFrQvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-toyota-tacoma-2g7ErfrfQ12okXv5pJpFrQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:44:58",
+      "last_verified": "2026-10-09T11:24:46",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -130,7 +169,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/179c5e70ac58.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-toyota-tacoma-37ri5vbYREuJhpdIkXmKFgvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-toyota-tacoma-37ri5vbYREuJhpdIkXmKFgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:45:09",
+      "last_verified": "2026-10-09T11:25:00",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -144,6 +183,19 @@
       "source_url": "https://www.langleychrysler.com/inventory/2026-volkswagen-jetta-comfortline-GtJpF6ytRNGWzUCpiqFHHgvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-volkswagen-jetta-comfortline-GtJpF6ytRNGWzUCpiqFHHgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T05:45:23",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
+    {
+      "name": "2026VolkswagenTaosComfortlineNEW-AWD- CLOTH INTERIOR- FULL FACOTRY WARRANTY- SAVE THOUSANDS ON NEW",
+      "vin": "3VVVC7B28TM060308",
+      "stock": "LC3071",
+      "color": "Pure White",
+      "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/101b82554bfb.html",
+      "source_url": "https://www.langleychrysler.com/inventory/2026-volkswagen-taos-comfortline-zYYJQ9YUQ9CeE6J5ZyTn1Qvdp",
+      "dealer_url": "https://www.langleychrysler.com/inventory/2026-volkswagen-taos-comfortline-zYYJQ9YUQ9CeE6J5ZyTn1Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-09T11:23:17",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
