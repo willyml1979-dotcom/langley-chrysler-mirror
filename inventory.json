@@ -1,6 +1,6 @@
 {
   "dealership": "Langley Chrysler",
-  "generated_at": "2026-10-09T11:28:21",
+  "generated_at": "2026-10-10T11:41:40",
   "vehicle_count": 28,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -39,7 +39,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/fe47e38acf78.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-honda-passport-trailsport-0MnMGnVsR1qBpKYgcljRVgvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-honda-passport-trailsport-0MnMGnVsR1qBpKYgcljRVgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T11:22:39",
+      "last_verified": "2026-10-10T11:39:30",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -65,7 +65,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/ea09b9eff3f6.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-jeep-cherokee-laredo-mBQKFQuOSUufgMnex5kfEwvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-jeep-cherokee-laredo-mBQKFQuOSUufgMnex5kfEwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T11:23:50",
+      "last_verified": "2026-10-10T11:40:37",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -104,7 +104,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/b7d46550de43.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-O7fv4LTWT9i4MHOkbhO4Lwvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-O7fv4LTWT9i4MHOkbhO4Lwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T11:24:04",
+      "last_verified": "2026-10-10T11:40:50",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -195,7 +195,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/101b82554bfb.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-volkswagen-taos-comfortline-zYYJQ9YUQ9CeE6J5ZyTn1Qvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-volkswagen-taos-comfortline-zYYJQ9YUQ9CeE6J5ZyTn1Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T11:23:17",
+      "last_verified": "2026-10-10T11:40:09",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
