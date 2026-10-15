@@ -1,10 +1,23 @@
 {
   "dealership": "Langley Chrysler",
-  "generated_at": "2026-10-10T11:45:44",
-  "vehicle_count": 29,
+  "generated_at": "2026-10-15T11:57:01",
+  "vehicle_count": 30,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
+    {
+      "name": "2025Ram3500Limited LonghornLIMITED LONGHORN- CREW- DIESEL- NO ACCIDENTS-SUNROOF- LEVEL 1 PACKAGE- AIR SUSPENSION-",
+      "vin": "3C63R3SLXSG574977",
+      "stock": "T168417",
+      "color": "Bright White",
+      "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/19db8d6aacc8.html",
+      "source_url": "https://www.langleychrysler.com/inventory/2025-ram-3500-limited-longhorn-692WqFe2QIeiBWchmK0bsAvdp",
+      "dealer_url": "https://www.langleychrysler.com/inventory/2025-ram-3500-limited-longhorn-692WqFe2QIeiBWchmK0bsAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T11:54:30",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
+    },
     {
       "name": "2026FordBroncoStroppe EditionLOCAL- NO ACCIDENTS- 1 OWNER-STROPP EDITION- REPLACEMENT TODAY IS $96,000-ECO BOOST V6- HARD TOP- LIKE NEW",
       "vin": "1FMEE0BP4TLA70097",
@@ -39,7 +52,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/fe47e38acf78.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-honda-passport-trailsport-0MnMGnVsR1qBpKYgcljRVgvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-honda-passport-trailsport-0MnMGnVsR1qBpKYgcljRVgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T11:39:30",
+      "last_verified": "2026-10-15T11:55:04",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -78,7 +91,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/98cd5b7a83cf.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-jeep-wrangler-sahara-wJBOOok2Sp20e8fwTxlzoAvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-jeep-wrangler-sahara-wJBOOok2Sp20e8fwTxlzoAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T11:22:51",
+      "last_verified": "2026-10-15T11:55:16",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -104,7 +117,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/b7d46550de43.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-O7fv4LTWT9i4MHOkbhO4Lwvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-O7fv4LTWT9i4MHOkbhO4Lwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T11:40:50",
+      "last_verified": "2026-10-15T11:56:18",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -117,20 +130,20 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/88488b730142.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-YhXlhmqNTnGVu5yMwhShAQvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-YhXlhmqNTnGVu5yMwhShAQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T11:24:17",
+      "last_verified": "2026-10-15T11:56:29",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
     },
     {
-      "name": "2026Ram1500Tungsten",
+      "name": "2026Ram1500TungstenGENERAL MANAGERS PERSONAL DEMO-ALL THE BELLS AND WHISTLE- ONLY 5800 KMS - RAM BOX- MASSAGE SEATS- THE LIST GOES ON.",
       "vin": "1C6SRFKP5TN327360",
       "stock": "LC3108",
       "color": "Diamond Black Crystal Pearl",
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/171e4b57affa.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-tungsten-eIWtuRsOTse8optIBedl7Qvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-tungsten-eIWtuRsOTse8optIBedl7Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T11:24:30",
+      "last_verified": "2026-10-15T11:56:42",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -156,7 +169,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/6d1eec7b447d.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-toyota-tacoma-2g7ErfrfQ12okXv5pJpFrQvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-toyota-tacoma-2g7ErfrfQ12okXv5pJpFrQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T11:24:46",
+      "last_verified": "2026-10-15T11:56:55",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -195,7 +208,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/101b82554bfb.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-volkswagen-taos-comfortline-zYYJQ9YUQ9CeE6J5ZyTn1Qvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-volkswagen-taos-comfortline-zYYJQ9YUQ9CeE6J5ZyTn1Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T11:40:09",
+      "last_verified": "2026-10-15T11:55:41",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
