@@ -1,7 +1,7 @@
 {
   "dealership": "Langley Chrysler",
-  "generated_at": "2026-10-15T12:00:00",
-  "vehicle_count": 30,
+  "generated_at": "2026-10-17T15:42:11",
+  "vehicle_count": 27,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -13,20 +13,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/19db8d6aacc8.html",
       "source_url": "https://www.langleychrysler.com/inventory/2025-ram-3500-limited-longhorn-692WqFe2QIeiBWchmK0bsAvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2025-ram-3500-limited-longhorn-692WqFe2QIeiBWchmK0bsAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T11:54:30",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
-    },
-    {
-      "name": "2026FordBroncoStroppe EditionLOCAL- NO ACCIDENTS- 1 OWNER-STROPP EDITION- REPLACEMENT TODAY IS $96,000-ECO BOOST V6- HARD TOP- LIKE NEW",
-      "vin": "1FMEE0BP4TLA70097",
-      "stock": "T348914",
-      "color": "Orange",
-      "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/333b17a0450b.html",
-      "source_url": "https://www.langleychrysler.com/inventory/2026-ford-bronco-stroppe-edition-K34fw1Z3Q9CCjRDqYTc3Owvdp",
-      "dealer_url": "https://www.langleychrysler.com/inventory/2026-ford-bronco-stroppe-edition-K34fw1Z3Q9CCjRDqYTc3Owvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:43:13",
+      "last_verified": "2026-10-17T15:40:19",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -52,7 +39,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/fe47e38acf78.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-honda-passport-trailsport-0MnMGnVsR1qBpKYgcljRVgvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-honda-passport-trailsport-0MnMGnVsR1qBpKYgcljRVgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T11:55:04",
+      "last_verified": "2026-10-17T15:40:42",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -65,7 +52,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/d6b9cddfca5c.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-hyundai-palisade-ultimate-calligraphy-evvIzkOiQ8O0Mkhksyhsjgvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-hyundai-palisade-ultimate-calligraphy-evvIzkOiQ8O0Mkhksyhsjgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T11:23:37",
+      "last_verified": "2026-10-17T15:41:29",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -78,7 +65,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/ea09b9eff3f6.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-jeep-cherokee-laredo-mBQKFQuOSUufgMnex5kfEwvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-jeep-cherokee-laredo-mBQKFQuOSUufgMnex5kfEwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T11:40:37",
+      "last_verified": "2026-10-17T15:41:42",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -104,7 +91,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/5528f6485ac2.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-mercedes-benz-cla-cla-250-LgZQq9nCQXu9JYEB03rInwvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-mercedes-benz-cla-cla-250-LgZQq9nCQXu9JYEB03rInwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T11:23:03",
+      "last_verified": "2026-10-17T15:41:04",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -130,7 +117,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/88488b730142.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-YhXlhmqNTnGVu5yMwhShAQvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-YhXlhmqNTnGVu5yMwhShAQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T11:56:29",
+      "last_verified": "2026-10-17T15:42:05",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -144,19 +131,6 @@
       "source_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-tungsten-eIWtuRsOTse8optIBedl7Qvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-tungsten-eIWtuRsOTse8optIBedl7Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T11:56:42",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
-    },
-    {
-      "name": "2026ToyotaRAV4LERAV 4 HYBRID- AWD- HEATED SEATS- LIKE NEW- JUST ARRIVED-",
-      "vin": "2T36CRAV6TC030931",
-      "stock": "LC3084",
-      "color": "Storm Cloud",
-      "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/e9aa8d1bd2b0.html",
-      "source_url": "https://www.langleychrysler.com/inventory/2026-toyota-rav4-le-0Q1KbFc7QvqXVF5n0H9DcQvdp",
-      "dealer_url": "https://www.langleychrysler.com/inventory/2026-toyota-rav4-le-0Q1KbFc7QvqXVF5n0H9DcQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:44:45",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -182,20 +156,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/179c5e70ac58.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-toyota-tacoma-37ri5vbYREuJhpdIkXmKFgvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-toyota-tacoma-37ri5vbYREuJhpdIkXmKFgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T11:25:00",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
-    },
-    {
-      "name": "2026VolkswagenJettaComfortlineYES-NEW- COMFORTLINE- SPORT PACKAGE- LEATHER - ALLOY WHEELS -",
-      "vin": "3VWSW7BU9TM055948",
-      "stock": "LC3070",
-      "color": "Platinum Gray Metallic",
-      "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/f51b7821fc6d.html",
-      "source_url": "https://www.langleychrysler.com/inventory/2026-volkswagen-jetta-comfortline-GtJpF6ytRNGWzUCpiqFHHgvdp",
-      "dealer_url": "https://www.langleychrysler.com/inventory/2026-volkswagen-jetta-comfortline-GtJpF6ytRNGWzUCpiqFHHgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:45:23",
+      "last_verified": "2026-10-17T15:40:06",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
