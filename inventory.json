@@ -1,6 +1,6 @@
 {
   "dealership": "Langley Chrysler",
-  "generated_at": "2026-10-18T19:33:07",
+  "generated_at": "2026-10-20T19:37:37",
   "vehicle_count": 26,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -26,7 +26,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/fe47e38acf78.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-honda-passport-trailsport-0MnMGnVsR1qBpKYgcljRVgvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-honda-passport-trailsport-0MnMGnVsR1qBpKYgcljRVgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T15:40:42",
+      "last_verified": "2026-10-20T19:35:59",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -39,7 +39,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/d6b9cddfca5c.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-hyundai-palisade-ultimate-calligraphy-evvIzkOiQ8O0Mkhksyhsjgvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-hyundai-palisade-ultimate-calligraphy-evvIzkOiQ8O0Mkhksyhsjgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T19:32:23",
+      "last_verified": "2026-10-20T19:36:53",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -65,7 +65,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/98cd5b7a83cf.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-jeep-wrangler-sahara-wJBOOok2Sp20e8fwTxlzoAvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-jeep-wrangler-sahara-wJBOOok2Sp20e8fwTxlzoAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T11:55:16",
+      "last_verified": "2026-10-20T19:36:12",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -78,7 +78,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/5528f6485ac2.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-mercedes-benz-cla-cla-250-LgZQq9nCQXu9JYEB03rInwvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-mercedes-benz-cla-cla-250-LgZQq9nCQXu9JYEB03rInwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T19:31:57",
+      "last_verified": "2026-10-20T19:36:25",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -91,7 +91,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/b7d46550de43.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-O7fv4LTWT9i4MHOkbhO4Lwvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-sport-O7fv4LTWT9i4MHOkbhO4Lwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T19:32:50",
+      "last_verified": "2026-10-20T19:37:18",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -117,7 +117,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/171e4b57affa.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-tungsten-eIWtuRsOTse8optIBedl7Qvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-ram-1500-tungsten-eIWtuRsOTse8optIBedl7Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T19:30:30",
+      "last_verified": "2026-10-20T19:34:59",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
@@ -143,7 +143,7 @@
       "url": "https://willyml1979-dotcom.github.io/langley-chrysler-mirror/used/179c5e70ac58.html",
       "source_url": "https://www.langleychrysler.com/inventory/2026-toyota-tacoma-37ri5vbYREuJhpdIkXmKFgvdp",
       "dealer_url": "https://www.langleychrysler.com/inventory/2026-toyota-tacoma-37ri5vbYREuJhpdIkXmKFgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T19:30:55",
+      "last_verified": "2026-10-20T19:35:23",
       "condition": "used",
       "city": "Surrey",
       "province": "BC"
